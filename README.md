@@ -11,7 +11,7 @@ NODE JS
 
 Para clonar o repositorio, basta copiar a URL no botão code do github: 
 
-![SELLCARCODE](https://github.com/maria18-ai/sellCar/assets/131560480/499419c6-ebf2-44eb-a03d-634134c33961)
+![HDCHOSTSTST](https://github.com/maria18-ai/hDC_host/assets/131560480/03562c7f-c1ad-4497-a2d8-cc330e083440)
 
 
 
@@ -27,7 +27,9 @@ Depois disso, basta dar o comando git clone no terminal com a URL copiada:
 
 ## 👩‍💻 Melhoras Futuras 
 
-Incrementar uma página de login para o projeto, transformar em um site funcional e configurar com o framework Angular.
+- Incrementar uma página de login para o projeto.
+- Transformar em um site funcional.
+- Configurar com o framework Angular.
 
 ## 📄 Licença
 
